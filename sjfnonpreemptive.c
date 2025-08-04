@@ -52,4 +52,5 @@ int main() {
 
     sjf_non_preemptive(p, n);
     return 0;
+    printf("hello world");
 }
